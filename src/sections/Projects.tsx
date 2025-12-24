@@ -10,7 +10,7 @@ import altaImage from "../../public/images/AltaProject.png";
 import amazonImage from "../../public/images/amazonClone.png";
 import netflixImage from "../../public/images/netflixImage.png";
 import HouseRentalImage from "../../public/images/HouseRentalImage.png"
-import movieRecommendation from "../../public/images/movieRecommendation.png"
+import movieRecommendation from "../../public/images/movieRecommendation.png";
 
 const projects = [
   {
