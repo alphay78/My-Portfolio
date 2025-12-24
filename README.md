@@ -44,7 +44,7 @@ portfolio-v2/
 <ol>
   <li><strong>Clone the repository:</strong>
     <pre>
-git clone https://github.com/itsyaba/portfolio-v2.git
+git clone https://github.com/alphay78/My-Portfolio.git
 cd portfolio-v2
     </pre>
   </li>
