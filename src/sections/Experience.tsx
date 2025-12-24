@@ -289,18 +289,18 @@ export const Experience = () => {
       ),
     },
     {
-      title: "Product Manager",
+      title: "Project Manager",
       content: (
         <div>
           <h1 className="text-3xl md:text-5xl font-serif mb-6">
             Alta Counseling Ethiopia
           </h1>
           <p className="text-sm md:text-[15px] leading-relaxed font-poppins">
-            Serving as a <b>Product Manager</b> for digital mental health
+            Serving as a <b>Project Manager</b> for digital mental health
             solutions, bridging the gap between business goals, user needs, and
             technical execution.
             <br />
-            <br />I lead product planning, define feature requirements,
+            <br />I lead Project planning, define feature requirements,
             prioritize roadmaps, and collaborate with developers and
             stakeholders to ensure impactful, user-centered product delivery.
           </p>
