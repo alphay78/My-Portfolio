@@ -9,6 +9,8 @@ import ArrowRightIcon from "../../public/icons/arrow-up-right.svg";
 import altaImage from "../../public/images/AltaProject.png";
 import amazonImage from "../../public/images/amazonClone.png";
 import netflixImage from "../../public/images/netflixImage.png";
+import HouseRentalImage from "../../public/images/HouseRentalImage.png"
+import movieRecommendation from "../../public/images/movieRecommendation.png"
 import servicenowImage from "../../public/service.png";
 import whalersImage from "../../public/images/whalers.png";
 import nileodeImage from "../../public/images/nileode-new.png";
@@ -33,8 +35,8 @@ const projects = [
   {
     name: "House Rental",
     description: "Whalers is a platform for learning and teaching.",
-    image: whalersImage,
-    link: "https://whalerapp.com",
+    image: HouseRentalImage,
+    link: "https://github.com/Ephraimdebel/House_Rental_and_Sell_Management_System",
     stack: "FullStack - React|Node.js",
   },
   {
@@ -42,22 +44,22 @@ const projects = [
     description:
       "Nileode Technologies is a platform for learning and teaching.",
     image: amazonImage,
-    link: "https://nileode.com",
+    link: "https://amazon-frontend-caib.vercel.app/",
     stack: "FullStack - React| Firebase| Stripe",
-  },
-  {
-    name: "House Rental Mobile App",
-    description: "Lalibela is a platform for learning and teaching.",
-    image: LalibelaImage,
-    link: "https://lalibelahoney.com",
-    stack: "Flutter",
   },
   {
     name: "Movie Recommendation",
     description: "Mojo is a platform for learning and teaching.",
-    image: MojoImage,
-    link: "https://themojoeffect.com/",
+    image: movieRecommendation,
+    link: "https://github.com/alphay78/movie-recommendation-backend",
     stack: "Backend - Django",
+  },
+  {
+    name: "House Rental Mobile App",
+    description: "Lalibela is a platform for learning and teaching.",
+    image: HouseRentalImage,
+    link: "https://github.com/Ephraimdebel/House_Sell_and_Rental_Flutter_Project__2025",
+    stack: "Flutter",
   },
 ];
 
