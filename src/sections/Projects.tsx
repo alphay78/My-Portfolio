@@ -11,11 +11,6 @@ import amazonImage from "../../public/images/amazonClone.png";
 import netflixImage from "../../public/images/netflixImage.png";
 import HouseRentalImage from "../../public/images/HouseRentalImage.png"
 import movieRecommendation from "../../public/images/movieRecommendation.png"
-import servicenowImage from "../../public/service.png";
-import whalersImage from "../../public/images/whalers.png";
-import nileodeImage from "../../public/images/nileode-new.png";
-import LalibelaImage from "../../public/images/lalibela.png";
-import MojoImage from "../../public/images/mojo.png";
 
 const projects = [
   {
