@@ -40,16 +40,6 @@ portfolio-v2/
 └── README.md          # Project documentation
 </pre>
 
-<h2>📸 Screenshots</h2>
-<p>
-  <strong>Home Page</strong><br>
-  <img src="https://github.com/user-attachments/assets/046ceea5-ed8a-4695-abfc-c7763b6b2693" alt="Home Page Screenshot" width="600">
-</p>
-<p>
-  <strong>Projects Page</strong><br>
-  <img src="https://github.com/user-attachments/assets/757deab0-5420-442c-978c-8d893e4a38a7" alt="Projects Page Screenshot" width="600">
-</p>
-
 <h2>🛠️ Installation & Development</h2>
 <ol>
   <li><strong>Clone the repository:</strong>
@@ -71,13 +61,8 @@ npm run dev
   <li>Open your browser and navigate to <a href="http://localhost:3000">http://localhost:3000</a>.</li>
 </ol>
 
-<h2>🌍 Live Demo</h2>
-<p>
-  Check out the live version of my portfolio: <a href="https://yeabsiras-portfolio.vercel.app/">Yeabsira Portfolio</a>
-</p>
-
 <h2>📧 Contact</h2>
 <ul>
-  <li><strong>Email:</strong> yabahane@gmai.com</li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/itsyaba">Yeabsira's LinkedIn</a></li>
+  <li><strong>Email:</strong> lond2601@gmai.com</li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alpha-israel-023197294/">Alpha's LinkedIn</a></li>
 </ul>
