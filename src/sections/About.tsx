@@ -1,5 +1,6 @@
 import aiStartupLandingPage from "../../public/images/ai-startup-landing-page.png";
 import AboutImage from "../../public/images/aboutme1.png";
+import aboutmePhone from "../../public/images/aboutmePhone.png";
 import Image from "next/image";
 import { ContainerScroll } from "@/components/ui/container-scroll-animation";
 
@@ -27,7 +28,7 @@ export const AboutSection = () => {
           draggable={false}
         />
         <Image
-          src={AboutImage}
+          src={aboutmePhone}
           alt="hero"
           height={720}
           width={1600}
