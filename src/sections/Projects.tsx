@@ -21,19 +21,21 @@ const projects = [
     description: "Tigat.net is a platform for learning and teaching.",
     image: altaImage,
     link: "https://www.altacounselingethiopia.com/",
+    stack: "FullStack - React | Node.js",
   },
   {
     name: "Netflix",
     description: "Servicenow is a platform for learning and teaching.",
     image: netflixImage,
     link: "https://netflix-clone-vert-alpha-86.vercel.app/",
+    stack: "Frontend - React",
   },
   {
     name: "House Rental",
     description: "Whalers is a platform for learning and teaching.",
     image: whalersImage,
     link: "https://whalerapp.com",
-  
+    stack: "FullStack - React|Node.js",
   },
   {
     name: "AmazonClone",
@@ -41,18 +43,21 @@ const projects = [
       "Nileode Technologies is a platform for learning and teaching.",
     image: amazonImage,
     link: "https://nileode.com",
+    stack: "FullStack - React| Firebase| Stripe",
   },
   {
-    name: "Travel Ticket",
+    name: "House Rental Mobile App",
     description: "Lalibela is a platform for learning and teaching.",
     image: LalibelaImage,
     link: "https://lalibelahoney.com",
+    stack: "Flutter",
   },
   {
     name: "Movie Recommendation",
     description: "Mojo is a platform for learning and teaching.",
     image: MojoImage,
     link: "https://themojoeffect.com/",
+    stack: "Backend - Django",
   },
 ];
 
@@ -111,7 +116,7 @@ export function ProjectsSection() {
                 transition={{ duration: 0.4, delay: 0.2 }}
               >
                 <h3 className="text-2xl font-cursive">{project.name}</h3>
-                {/* <span className="text-white/60">— {project.location}</span> */}
+                <span className="text-white/60"> {project.stack}</span>
               </motion.div>
 
               {/* Button */}
